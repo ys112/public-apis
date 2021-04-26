@@ -278,6 +278,7 @@ API | Description | Auth | HTTPS | CORS |
 | [CountAPI](https://countapi.xyz) | Free and simple counting service. You can use it to track page hits and specific events | No | Yes | Yes |
 | [DigitalOcean Status](https://status.digitalocean.com/api) | Status of all DigitalOcean services | No | Yes | Unknown |
 | [DomainDb Info](https://api.domainsdb.info/) | Domain name search to find all domains containing particular words/phrases/etc | No | Yes | Unknown |
+| [ExtendsClass JSON Storage](https://extendsclass.com/json-storage.html) | A simple JSON store API | No | Yes | Yes |
 | [Form2Channel](https://form2channel.com/) | Send static html form submissions to Google Sheets, Email, Slack or Telegram | No | Yes | Yes |
 | [Genderize.io](https://genderize.io) | Estimates a gender from a first name | No | Yes | Yes |
 | [GETPing](https://www.getping.info) | Trigger an email notification with a simple GET request | `apiKey` | Yes | Unknown |
@@ -381,6 +382,7 @@ API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes | Yes |
 | [Alpha Vantage](https://www.alphavantage.co/) | Realtime and historical stock data | `apiKey` | Yes | Unknown |
+| [Banco do Brasil](https://developers.bb.com.br/home) | All Banco do Brasil financial transaction APIs | `OAuth` | Yes | Yes |
 | [IEX Cloud](https://iexcloud.io/docs/api/) | Realtime & Historical Stock and Market Data | `apiKey` | Yes | Yes |
 | [IG](https://labs.ig.com/gettingstarted) | Spreadbetting and CFD Market Data | `apiKey` | Yes | Unknown |
 | [Intrinio](https://intrinio.com/) | A wide selection of financial data feeds | `apiKey` | Yes | Unknown |
@@ -459,6 +461,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Random Facts](https://fungenerators.com/api/facts/) | Random Facts from hundreds of categories | `apiKey` | Yes | Yes |
 | [Rick and Morty](https://rickandmortyapi.com) | All the Rick and Morty information, including images | No | Yes | Yes |
 | [Riot Games](https://developer.riotgames.com/) | League of Legends Game Information | `apiKey` | Yes | Unknown |
+| [RuneScape](https://runescape.wiki/w/Application_programming_interface) | RuneScape and OSRS RPGs information | No | Yes | No |
 | [Scryfall](https://scryfall.com/docs/api) | Magic: The Gathering database | No | Yes | Yes |
 | [Steam](https://developer.valvesoftware.com/wiki/Steam_Web_API) | Steam Client Interaction | `OAuth` | Yes | Unknown |
 | [SuperHeroes](https://superheroapi.com) | All SuperHeroes and Villains data from all universes under a single API | `apiKey` | Yes | Unknown |
@@ -662,6 +665,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Chronicling America](http://chroniclingamerica.loc.gov/about/api/) | Provides access to millions of pages of historic US newspapers from the Library of Congress | No | No | Unknown |
 | [Currents](https://currentsapi.services/) | Latest news published in various news sources, blogs and forums | `apiKey` | Yes | Yes |
 | [Feedbin](https://github.com/feedbin/feedbin-api) | RSS reader | `OAuth` | Yes | Unknown |
+| [Graphs for Coronavirus](https://corona.dnsforfamily.com/api.txt) | Each Country separately and Worldwide Graphs for Coronavirus. Daily updates | No | Yes | Yes |
 | [mediastack](https://mediastack.com/) | Free, Simple REST API for Live News & Blog Articles | `apiKey` | Yes | Unknown |
 | [New York Times](https://developer.nytimes.com/) | Provides news | `apiKey` | Yes | Unknown |
 | [News](https://newsapi.org/) | Headlines currently published on a range of news sources and blogs | `apiKey` | Yes | Unknown |
